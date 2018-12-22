@@ -1,0 +1,20 @@
+12-22-2018 class notes
+
+Unit testing with jUnit and testNG
+
+Download:
+https://search.maven.org/artifact/junit/junit/4.12/jar
+
+
+API:
+
+http://junit.sourceforge.net/javadoc/
+
+http://testng.org/doc/documentation-main.html
+
+https://jitpack.io/com/github/cbeust/testng/master/javadoc/
+
+Brew install mongoldb
+
+Mongod
+Mongo
